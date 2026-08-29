@@ -19,6 +19,9 @@ A lightweight PC app that bridges physical motion controllers to the [Just Dance
 * **Bluetooth**: Your PC must have Bluetooth to pair the controllers (Wiimote, Joy-Con, PS Move).
 * Windows, macOS, or Linux.
 
+## 🖥️ Windows Download
+Download from [Releases](https://github.com/akao99998/jdbest-joycon/releases)
+
 ## 📦 Python Imports
    ```bash
    pip install customtkinter Pillow requests websockets hid joycon-python
