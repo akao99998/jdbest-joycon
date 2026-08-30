@@ -22,6 +22,24 @@ A lightweight PC app that bridges physical motion controllers to the [Just Dance
 ## 🖥️ Windows Download
 Download from [Releases](https://github.com/akao99998/jdbest-joycon/releases)
 
+## Connecting a Joy-Con:
+Hold the pair button on the JoyCon (The small little button on the side)
+Once it starts blinking, go to Bluetooth settings on Windows, Add device, and choose "Joy-Con"
+Now rescan in the JD Best controller bridge app.
+
+## Connecting a PSMOVE:
+Connect your PSMOVE to your pc using a USB Cable.
+Download the ps move zip from [Releases](https://github.com/akao99998/jdbest-joycon/releases)
+Extract the zip, and run "PAIR_PS_MOVE.bat"
+Now take your USB Cable out, and press the power button on the controller until it shows a constant light.
+Now rescan in the JD Best controller bridge app.
+
+## Connecting a Wii Remote:
+Hold "1" and "2" on the Wii Remote.
+Once it starts blinking, go to Bluetooth settings on Windows, Add device, and choose it.
+If it asks for a PIN Code then don't type anything and proceed.
+Now rescan in the JD Best controller bridge app.
+
 ## 📦 Python Imports
    ```bash
    pip install customtkinter Pillow requests websockets hid joycon-python
