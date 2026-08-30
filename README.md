@@ -48,3 +48,6 @@ Now rescan in the JD Best controller bridge app.
 
 ## Disclaimer
 This is an unofficial app and is not developed by the Just Dance Best team / RyuAtelier. If you notice any bugs, please create an issue on this repo.
+
+## Message:
+This script has been removed because JDB wishes to keep this exclusive to patreon.
