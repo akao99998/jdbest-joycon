@@ -1,3 +1,6 @@
+## Message:
+This script has been removed because JDB wishes to paywall and keep this exclusive to patreon. Don't try playing with it as your account gets auto banned.
+
 # Just Dance Best - Controller Bridge
 
 A lightweight PC app that bridges physical motion controllers to the [Just Dance Best](https://jdbest.online/) web game. Instead of holding your smartphone, this app lets you use your favorite console controllers to play the game with full motion tracking, haptic feedback (JoyCon), and in-game controls.
@@ -49,5 +52,4 @@ Now rescan in the JD Best controller bridge app.
 ## Disclaimer
 This is an unofficial app and is not developed by the Just Dance Best team / RyuAtelier. If you notice any bugs, please create an issue on this repo.
 
-## Message:
-This script has been removed because JDB wishes to keep this exclusive to patreon.
+
